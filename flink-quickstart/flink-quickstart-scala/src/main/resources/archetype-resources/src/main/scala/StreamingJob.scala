@@ -40,7 +40,7 @@ import org.apache.flink.streaming.api.scala._
  *
  * For more information on the CLI see:
  *
- * http://flink.apache.org/docs/latest/apis/cli.html
+ * https://ci.apache.org/projects/flink/flink-docs-master/setup/cli.html
  */
 object StreamingJob {
   def main(args: Array[String]) {
@@ -63,7 +63,7 @@ object StreamingJob {
      * and many more.
      * Have a look at the programming guide:
      *
-     * http://flink.apache.org/docs/latest/apis/streaming/index.html
+     * https://ci.apache.org/projects/flink/flink-docs-master/dev/datastream_api.html
      *
      */
 

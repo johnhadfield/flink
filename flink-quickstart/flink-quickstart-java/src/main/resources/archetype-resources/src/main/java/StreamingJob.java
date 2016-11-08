@@ -39,7 +39,7 @@ import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
  *
  * For more information on the CLI see:
  *
- * http://flink.apache.org/docs/latest/apis/cli.html
+ * https://ci.apache.org/projects/flink/flink-docs-master/setup/cli.html
  */
 public class StreamingJob {
 
@@ -63,7 +63,7 @@ public class StreamingJob {
 		 * and many more.
 		 * Have a look at the programming guide for the Java API:
 		 *
-		 * http://flink.apache.org/docs/latest/apis/streaming/index.html
+		 * https://ci.apache.org/projects/flink/flink-docs-master/dev/datastream_api.html
 		 *
 		 */
 

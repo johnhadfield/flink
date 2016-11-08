@@ -38,7 +38,7 @@ import org.apache.flink.api.java.ExecutionEnvironment;
  *
  * For more information on the CLI see:
  *
- * http://flink.apache.org/docs/latest/apis/cli.html
+ * https://ci.apache.org/projects/flink/flink-docs-master/setup/cli.html
  */
 public class BatchJob {
 
@@ -62,11 +62,11 @@ public class BatchJob {
 		 * and many more.
 		 * Have a look at the programming guide for the Java API:
 		 *
-		 * http://flink.apache.org/docs/latest/apis/batch/index.html
+		 * https://ci.apache.org/projects/flink/flink-docs-master/dev/batch/index.html
 		 *
 		 * and the examples
 		 *
-		 * http://flink.apache.org/docs/latest/apis/batch/examples.html
+		 * https://ci.apache.org/projects/flink/flink-docs-master/dev/batch/examples.html
 		 *
 		 */
 

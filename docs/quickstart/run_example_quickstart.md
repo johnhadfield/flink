@@ -279,7 +279,7 @@ was produced.
 This should get you started with writing your own Flink programs. To learn more 
 you can check out our guides
 about [basic concepts]({{ site.baseurl }}/apis/common/index.html) and the
-[DataStream API]({{ site.baseurl }}/apis/streaming/index.html). Stick
+[DataStream API]({{ site.baseurl }}/dev/datastream_api.html). Stick
 around for the bonus exercise if you want to learn about setting up a Flink cluster on
 your own machine and writing results to [Kafka](http://kafka.apache.org).
 
